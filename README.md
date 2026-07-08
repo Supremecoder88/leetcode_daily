@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Supremecoder88/leetcode_daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Supremecoder88/leetcode_daily/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 ## String
 |  |
