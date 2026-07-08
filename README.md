@@ -51,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
