@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
