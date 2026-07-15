@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
