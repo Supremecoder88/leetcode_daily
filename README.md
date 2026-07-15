@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
