@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Supremecoder88/leetcode_daily/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
