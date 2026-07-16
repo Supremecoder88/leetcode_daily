@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
