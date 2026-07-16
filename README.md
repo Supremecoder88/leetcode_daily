@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
