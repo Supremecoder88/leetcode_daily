@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Depth-First Search
@@ -181,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
