@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
@@ -196,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 ## Bitmask
 |  |
