@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Tree
