@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Supremecoder88/leetcode_daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Supremecoder88/leetcode_daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Supremecoder88/leetcode_daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Supremecoder88/leetcode_daily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
