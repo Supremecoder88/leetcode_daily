@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Supremecoder88/leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Queue
