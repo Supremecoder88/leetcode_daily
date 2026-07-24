@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -279,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
