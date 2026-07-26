@@ -6,12 +6,17 @@ class Solution {
             return false;
         }
 
-        char[] a = s.toCharArray();
-        char[] b = t.toCharArray();
+        int[] charC= new int[26];
 
-        Arrays.sort(a);
-        Arrays.sort(b);
-
-        return Arrays.equals(a, b);
+        for(int i=0;i<s.length();i++){
+            charC[s.charAt(i)-'a']++;
+            charC[t.charAt(i)-'a']--;
+        }
+        for(int count : charC){
+            if(count !=0){
+                return false;
+            }
+        }
+        return true;
     }
 }
