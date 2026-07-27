@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
@@ -293,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
