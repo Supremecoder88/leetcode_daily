@@ -343,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Supremecoder88/leetcode_daily/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Supremecoder88/leetcode_daily/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/Supremecoder88/leetcode_daily/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Supremecoder88/leetcode_daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
