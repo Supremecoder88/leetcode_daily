@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search Tree
 |  |
