@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Combinatorics
 |  |
