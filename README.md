@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Supremecoder88/leetcode_daily/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supremecoder88/leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Supremecoder88/leetcode_daily/tree/master/0443-string-compression) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
 ## Sorting
