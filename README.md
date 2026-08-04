@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 ## Database
 |  |
