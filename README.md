@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Combinatorics
 |  |
