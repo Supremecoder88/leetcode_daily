@@ -1,14 +1,20 @@
-class Solution {
+import java.util.*;
 
+class Solution {
     public int singleNumber(int[] nums) {
 
-        int ans = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int num : nums) {
-
-            ans ^= num;
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        return ans;
+        for (int num : nums) {
+            if (map.get(num) == 1) {
+                return num;
+            }
+        }
+
+        return -1;
     }
 }
