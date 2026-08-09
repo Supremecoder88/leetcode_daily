@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
+| [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Tree
 |  |
