@@ -1,22 +1,18 @@
 class Solution {
-
     public boolean isAnagram(String s, String t) {
+        // Base case
+        if(s.length() != t.length()) return false;
 
-        if(s.length() != t.length()) {
-            return false;
-        }
+        char sArr[]=s.toCharArray(); // convert string to character array
+        Arrays.sort(sArr); // sort the array
+        String sortedS=new String(sArr); // then convert back the array into string
 
-        int[] charC= new int[26];
+        char tArr[]=t.toCharArray();
+        Arrays.sort(tArr);
+        String sortedT=new String(tArr);
 
-        for(int i=0;i<s.length();i++){
-            charC[s.charAt(i)-'a']++;
-            charC[t.charAt(i)-'a']--;
-        }
-        for(int count : charC){
-            if(count !=0){
-                return false;
-            }
-        }
-        return true;
+        if(sortedS.equals(sortedT)) return true;
+
+        return false;
     }
 }
