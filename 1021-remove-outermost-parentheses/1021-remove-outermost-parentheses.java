@@ -1,38 +1,28 @@
 class Solution {
-
     public String removeOuterParentheses(String s) {
-
-        int l = s.length();
-
-        int outer = 0;
 
         StringBuilder ans = new StringBuilder();
 
-        // Simulates the outermost opening parenthesis
-        int stack = 0;
+        int depth = 0;
 
-        for (char ch : s.toCharArray()) {
+        for (char c : s.toCharArray()) {
 
-            // First opening parenthesis of a primitive
-            if (stack == 0 && ch == '(') {
-                stack = 1;
+            if (c == '(') {
+
+                if (depth > 0) {
+                    ans.append(c);
+                }
+
+                depth++;
             }
 
-            // Inner opening parentheses
-            else if (ch == '(' && outer >= 0) {
-                outer++;
-                ans.append(ch);
-            }
+            else {
 
-            // Inner closing parentheses
-            else if (ch == ')' && outer != 0) {
-                outer--;
-                ans.append(ch);
-            }
+                depth--;
 
-            // Last closing parenthesis of a primitive
-            else if (stack == 1 && ch == ')' && outer == 0) {
-                stack = 0;
+                if (depth > 0) {
+                    ans.append(c);
+                }
             }
         }
 
