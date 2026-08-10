@@ -1,30 +1,24 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
 
-        int num = 1;
+        int current = 1;
 
-        while (k > 0) {
+        for (int num : arr) {
 
-            boolean found = false;
-
-            for (int x : arr) {
-                if (x == num) {
-                    found = true;
-                    break;
-                }
-            }
-
-            if (!found) {
+            while (current < num) {
                 k--;
+
+                if (k == 0) {
+                    return current;
+                }
+
+                current++;
             }
 
-            if (k == 0) {
-                return num;
-            }
-
-            num++;
+            current = num + 1;
         }
 
-        return -1;
+        // Missing numbers after the end of array
+        return current + k - 1;
     }
 }
