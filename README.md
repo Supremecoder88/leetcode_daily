@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [1539-kth-missing-positive-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
+| [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supremecoder88/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
+| [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Combinatorics
 |  |
