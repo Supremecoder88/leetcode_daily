@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Supremecoder88/leetcode_daily/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Supremecoder88/leetcode_daily/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Supremecoder88/leetcode_daily/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
