@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0463-island-perimeter) |
+| [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Supremecoder88/leetcode_daily/tree/master/2596-check-knight-tour-configuration) |
