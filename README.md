@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1143-longest-common-subsequence) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
 | [3193-count-the-number-of-inversions](https://github.com/Supremecoder88/leetcode_daily/tree/master/3193-count-the-number-of-inversions) |
 ## Recursion
@@ -450,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
