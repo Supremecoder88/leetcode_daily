@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1143-longest-common-subsequence) |
