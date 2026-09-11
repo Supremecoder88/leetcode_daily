@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supremecoder88/leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Supremecoder88/leetcode_daily/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 ## Design
