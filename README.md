@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Supremecoder88/leetcode_daily/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Supremecoder88/leetcode_daily/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Supremecoder88/leetcode_daily/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Supremecoder88/leetcode_daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Supremecoder88/leetcode_daily/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Supremecoder88/leetcode_daily/tree/master/1527-patients-with-a-condition) |
