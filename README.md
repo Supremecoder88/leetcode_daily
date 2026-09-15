@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Supremecoder88/leetcode_daily/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Supremecoder88/leetcode_daily/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Supremecoder88/leetcode_daily/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Supremecoder88/leetcode_daily/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Supremecoder88/leetcode_daily/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Floyd's Cycle Finding Algorithm
 |  |
