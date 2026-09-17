@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Supremecoder88/leetcode_daily/tree/master/0066-plus-one) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Supremecoder88/leetcode_daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Supremecoder88/leetcode_daily/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
