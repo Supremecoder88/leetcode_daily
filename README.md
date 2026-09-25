@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 ## Memoization
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
