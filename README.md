@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/Supremecoder88/leetcode_daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Supremecoder88/leetcode_daily/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Supremecoder88/leetcode_daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
