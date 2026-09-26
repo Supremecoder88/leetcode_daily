@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Supremecoder88/leetcode_daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Supremecoder88/leetcode_daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
