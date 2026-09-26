@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Supremecoder88/leetcode_daily/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
