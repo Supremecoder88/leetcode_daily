@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
+| [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [1539-kth-missing-positive-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
+| [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1405-longest-happy-string) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
 ## Bit Manipulation
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 ## Backtracking
 |  |
 | ------- |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Supremecoder88/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Supremecoder88/leetcode_daily/tree/master/2149-rearrange-array-elements-by-sign) |
