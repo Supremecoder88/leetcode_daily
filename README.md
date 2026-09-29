@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Supremecoder88/leetcode_daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Supremecoder88/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
