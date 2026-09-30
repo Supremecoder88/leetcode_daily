@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Supremecoder88/leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Supremecoder88/leetcode_daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Supremecoder88/leetcode_daily/tree/master/1020-number-of-enclaves) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/Supremecoder88/leetcode_daily/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Supremecoder88/leetcode_daily/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/Supremecoder88/leetcode_daily/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
