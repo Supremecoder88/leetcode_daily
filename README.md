@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
+| [0978-longest-turbulent-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Supremecoder88/leetcode_daily/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0978-longest-turbulent-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/1092-shortest-common-supersequence) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supremecoder88/leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
+| [0978-longest-turbulent-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Supremecoder88/leetcode_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
