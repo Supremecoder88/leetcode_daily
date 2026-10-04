@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Supremecoder88/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1405-longest-happy-string) |
