@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
 | [1539-kth-missing-positive-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/1539-kth-missing-positive-number) |
 | [1696-jump-game-vi](https://github.com/Supremecoder88/leetcode_daily/tree/master/1696-jump-game-vi) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Supremecoder88/leetcode_daily/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Supremecoder88/leetcode_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1405-longest-happy-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Supremecoder88/leetcode_daily/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Tree
