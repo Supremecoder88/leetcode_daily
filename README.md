@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Supremecoder88/leetcode_daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Supremecoder88/leetcode_daily/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0746-min-cost-climbing-stairs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Supremecoder88/leetcode_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Supremecoder88/leetcode_daily/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Supremecoder88/leetcode_daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Supremecoder88/leetcode_daily/tree/master/0739-daily-temperatures) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Supremecoder88/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
