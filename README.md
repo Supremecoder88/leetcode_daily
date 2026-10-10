@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Supremecoder88/leetcode_daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
@@ -642,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Supremecoder88/leetcode_daily/tree/master/1071-greatest-common-divisor-of-strings) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
