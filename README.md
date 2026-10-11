@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Supremecoder88/leetcode_daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Supremecoder88/leetcode_daily/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 ## Database
 |  |
