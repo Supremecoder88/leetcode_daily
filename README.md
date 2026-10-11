@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Supremecoder88/leetcode_daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Supremecoder88/leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
