@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Supremecoder88/leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Supremecoder88/leetcode_daily/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0494-target-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Supremecoder88/leetcode_daily/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Supremecoder88/leetcode_daily/tree/master/0645-set-mismatch) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Supremecoder88/leetcode_daily/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Supremecoder88/leetcode_daily/tree/master/0516-longest-palindromic-subsequence) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0678-valid-parenthesis-string) |
