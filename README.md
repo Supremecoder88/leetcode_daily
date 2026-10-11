@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Supremecoder88/leetcode_daily/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Supremecoder88/leetcode_daily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Supremecoder88/leetcode_daily/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0202-happy-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
