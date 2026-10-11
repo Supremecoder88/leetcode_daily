@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Supremecoder88/leetcode_daily/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Supremecoder88/leetcode_daily/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Supremecoder88/leetcode_daily/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Supremecoder88/leetcode_daily/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0059-spiral-matrix-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Supremecoder88/leetcode_daily/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Supremecoder88/leetcode_daily/tree/master/0070-climbing-stairs) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Supremecoder88/leetcode_daily/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Supremecoder88/leetcode_daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
