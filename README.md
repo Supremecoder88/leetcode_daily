@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Supremecoder88/leetcode_daily/tree/master/0953-verifying-an-alien-dictionary) |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/Supremecoder88/leetcode_daily/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Supremecoder88/leetcode_daily/tree/master/0997-find-the-town-judge) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Supremecoder88/leetcode_daily/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Supremecoder88/leetcode_daily/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Supremecoder88/leetcode_daily/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Supremecoder88/leetcode_daily/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Supremecoder88/leetcode_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Supremecoder88/leetcode_daily/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Supremecoder88/leetcode_daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Supremecoder88/leetcode_daily/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1903-largest-odd-number-in-string) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Supremecoder88/leetcode_daily/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Supremecoder88/leetcode_daily/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Supremecoder88/leetcode_daily/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Supremecoder88/leetcode_daily/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/1405-longest-happy-string) |
@@ -678,4 +683,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Supremecoder88/leetcode_daily/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
