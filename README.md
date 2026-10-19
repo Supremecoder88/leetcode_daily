@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0394-decode-string) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Supremecoder88/leetcode_daily/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Supremecoder88/leetcode_daily/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Supremecoder88/leetcode_daily/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0463-island-perimeter) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Supremecoder88/leetcode_daily/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Supremecoder88/leetcode_daily/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1219-path-with-maximum-gold](https://github.com/Supremecoder88/leetcode_daily/tree/master/1219-path-with-maximum-gold) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Supremecoder88/leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Supremecoder88/leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Supremecoder88/leetcode_daily/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0543-diameter-of-binary-tree) |
