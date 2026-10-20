@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Supremecoder88/leetcode_daily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Supremecoder88/leetcode_daily/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Supremecoder88/leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Supremecoder88/leetcode_daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Supremecoder88/leetcode_daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Supremecoder88/leetcode_daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Supremecoder88/leetcode_daily/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Supremecoder88/leetcode_daily/tree/master/0345-reverse-vowels-of-a-string) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Supremecoder88/leetcode_daily/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0208-implement-trie-prefix-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Supremecoder88/leetcode_daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Supremecoder88/leetcode_daily/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Supremecoder88/leetcode_daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Supremecoder88/leetcode_daily/tree/master/0355-design-twitter) |
 | [0981-time-based-key-value-store](https://github.com/Supremecoder88/leetcode_daily/tree/master/0981-time-based-key-value-store) |
 ## Database
